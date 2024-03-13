@@ -17,7 +17,7 @@ function Registro() {
           <li><a href="#">Reservas</a></li>
           <li><a href="#">Contacto</a></li>
           <li><a href="https://github.com/crires10/proyecto-cristofer">Enlace GITHUB</a></li>
-          <li><a href="#">Registrese</a></li>
+          <li><a href="#">Usuario</a></li>
           <li><a href="#">Vuelos</a></li>
         </ul>
       </nav>
@@ -30,7 +30,7 @@ function Registro() {
       </main>
 
       <footer>
-        <p>&copy; 2024 Trabajo desarrollo de software 2. Todos los derechos reservados.</p>
+        <p>&copy; 2024 Trabajo final desarrollo de software 2. Todos los derechos reservados.</p>
         <p><a href="https://github.com/crires10/Trabajo2ReactJs">Enlace GITHUB</a></p>
       </footer>
     </div>
