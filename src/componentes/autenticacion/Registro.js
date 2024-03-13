@@ -16,8 +16,8 @@ function Registro() {
           <li><a href="#">Destinos</a></li>
           <li><a href="#">Reservas</a></li>
           <li><a href="#">Contacto</a></li>
-          <li><a href="https://github.com/crires10/proyecto-cristofer">Enlace GITHUB</a></li>
-          <li><a href="#">Usuario</a></li>
+          <li><a href="https://github.com/crires10/Trabajo2ReactJs">Enlace GITHUB</a></li>
+          <li><a href="#">Usuario Registrado</a></li>
           <li><a href="#">Vuelos</a></li>
         </ul>
       </nav>
