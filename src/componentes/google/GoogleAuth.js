@@ -5,7 +5,7 @@ function GoogleAuth({ onSuccess, onFailure }) {
   return (
     <div>
       <header>
-        <h1>Aerolínea Destino</h1>
+        <h1>Aerolínea Destinos</h1>
         <p>Desarrollado por Cristofer Restrepo</p>
       </header>
 
