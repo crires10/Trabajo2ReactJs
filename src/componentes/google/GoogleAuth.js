@@ -5,7 +5,7 @@ function GoogleAuth({ onSuccess, onFailure }) {
   return (
     <div>
       <header>
-        <h1>Aerolínea Destinoss</h1>
+        <h1>Aerolínea Destinos</h1>
         <p>Desarrollado por Cristofer Restrepo</p>
       </header>
 
@@ -29,7 +29,7 @@ function GoogleAuth({ onSuccess, onFailure }) {
 
       <footer>
         <p>&copy; 2024 Trabajo desarrollo de software 2. Todos los derechos reservados.</p>
-        <p><a href="https://github.com/crires10/proyecto-cristofer">Enlace GITHUB</a></p>
+        <p><a href="https://github.com/crires10/Trabajo2ReactJs">Enlace GITHUB</a></p>
       </footer>
     </div>
   );
