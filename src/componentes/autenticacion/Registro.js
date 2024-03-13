@@ -18,7 +18,7 @@ function Registro() {
           <li><a href="#">Contacto</a></li>
           <li><a href="https://github.com/crires10/proyecto-cristofer">Enlace GITHUB</a></li>
           <li><a href="#">Registrese</a></li>
-          <li><a href="#">Iniciar Sesion</a></li>
+          <li><a href="#">Vuelos</a></li>
         </ul>
       </nav>
 
